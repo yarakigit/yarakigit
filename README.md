@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 [![yarakigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarakigit&theme=vue-light&show_icons=true)](https://github.com/yarakigit/github-readme-stats)　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarakigit&theme=vue-light&show_icons=true&layout=compact)](https://github.com/yarakigit/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yarakigit" alt="yarakigit" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yarakigit&theme=light&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
