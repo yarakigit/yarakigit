@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![yarakigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarakigit&theme=vue-light&show_icons=true)](https://github.com/yarakigit/github-readme-stats)　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarakigit&theme=vue-light&show_icons=true&layout=compact)](https://github.com/yarakigit/github-readme-stats)
+[![yarakigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarakigit&theme=vue-light&show_icons=true)](https://github.com/yarakigit/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarakigit&theme=vue-light&show_icons=true&layout=compact)](https://github.com/yarakigit/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yarakigit&theme=light&column=7
