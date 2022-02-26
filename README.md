@@ -22,6 +22,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/yarakigit">
     <img height="20" src="https://img.shields.io/github/followers/yarakigit?label=follow&logo=github&style=flat" />
   </a>
+  <a href="http://qiita.com/yarakigit">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yarakigit/posts.svg" />
+  </a>
+  <a href="http://qiita.com/yarakigit">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yarakigit/contributions.svg" />
+  </a>
 </p>
 
 [![yarakigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarakigit&theme=vue-light&show_icons=true)](https://github.com/yarakigit/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarakigit&theme=vue-light&show_icons=true&layout=compact)](https://github.com/yarakigit/github-readme-stats)
