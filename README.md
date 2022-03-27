@@ -28,9 +28,6 @@ Here are some ideas to get you started:
   <a href="http://qiita.com/yarakigit">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yarakigit/contributions.svg" />
   </a>
-  <a href="http://twitter.com/tech_ya_tw">
-    <img height="20" src="https://img.shields.io/twitter/follow/tech_ya_tw?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
 
 [![yarakigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarakigit&theme=vue-light&show_icons=true)](https://github.com/yarakigit/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarakigit&theme=vue-light&show_icons=true&layout=compact)](https://github.com/yarakigit/github-readme-stats)
